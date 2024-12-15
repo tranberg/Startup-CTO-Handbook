@@ -1,0 +1,7 @@
+---
+title: The Startup CTO's Handbook
+author: Zach Goldberg
+rights:  Creative Commons Attribution Non-Commercial Share Alike 4.0
+language: en-US
+...
+
